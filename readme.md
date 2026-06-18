@@ -80,6 +80,12 @@ Space Weather Data
  Visualization Dashboard
 
  space-radiation-prediction/
+
+---
+
+##📂 Project Structure
+
+
 │
 ├── data/
 │   ├── raw/
